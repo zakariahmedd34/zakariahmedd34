@@ -1,3 +1,3 @@
-# Hi, there👋
+# Hi there 👋
 
-I'm Zakaria. Artificial Intelligence student.
+I'm Zakaria, an Artificial Intelligence student.
