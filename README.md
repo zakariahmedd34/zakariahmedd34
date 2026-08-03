@@ -1,3 +1,3 @@
-# Hi, I'm Zakaria Ahmed 👋
+# Hi, there👋
 
-Artificial Intelligence student passionate about Machine Learning, Deep Learning, and AI research.
+I'm Zakaria. Artificial Intelligence student.
